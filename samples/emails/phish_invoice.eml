@@ -1,0 +1,27 @@
+From: "Microsoft Billing" <billing@micros0ft.com>
+Reply-To: refund-team@outlook.com
+To: victim@example.com
+Subject: URGENT: Unpaid invoice #94731
+Date: Mon, 03 Nov 2025 14:07:21 +0000
+Message-ID: <abc123@example.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="BOUND"
+
+--BOUND
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+V2UgY291bGQgbm90IHByb2Nlc3MgeW91ciBwbGF5bWVudC4gUGxlYXNlIGxvZ2luIHRvIHBheTog
+aHR0cDovL21pY3Jvc29mdC1iaWxsaW5nLmludm9pY2VzLWF1dGguc2l0ZS8xMjM=
+
+
+--BOUND
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body>
+<p>We could not process your payment. Please <a href="http://m1crosoft-bill=
+ing.com/secure?session=3D987">login</a> to pay now.<br>
+If you ignore this, your account will be suspended.</p>
+</body></html>
+--BOUND--

@@ -1,0 +1,3 @@
+File,From,ReplyTo,Subject,Date,MessageID,Score,Risk,Notes,URLCount,AttachmentCount
+samples/emails/phish_invoice.eml,Microsoft Billing <billing@micros0ft.com>,refund-team@outlook.com,URGENT: Unpaid invoice #94731,"Mon, 03 Nov 2025 14:07:21 +0000",<abc123@example.com>,5,High,Reply-To domain differs from From (outlook.com vs micros0ft.com); Urgent/pressure language; Lookalike brand in sender; External URLs present,2,0
+samples/emails/legit_meeting.eml,HR Team <hr@company.local>,,Team Meeting Tomorrow,"Tue, 04 Nov 2025 09:12:40 +0000",<xyz789@example.com>,0,Benign,,0,0
