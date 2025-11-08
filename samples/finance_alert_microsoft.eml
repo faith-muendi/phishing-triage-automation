@@ -1,0 +1,15 @@
+From: "Microsoft Billing" <finance-alert@securemicrosoft.com>
+To: user@example.com
+Subject: Microsoft Billing Notice - Action Required
+Date: Sat, 8 Nov 2025 02:00:00 +0000
+Message-ID: <finance-alert-001@securemicrosoft.com>
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<body>
+<p>Dear customer,</p>
+<p>We detected an issue with your billing. Please verify your account immediately:</p>
+<p><a href="http://securemicrosoft.verify-account[.]top/validate">Verify your account</a></p>
+<p>Thank you,<br/>Microsoft Billing</p>
+</body>
+</html>

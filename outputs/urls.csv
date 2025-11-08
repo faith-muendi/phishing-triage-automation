@@ -1,3 +1,4 @@
 File,URL
-samples/emails/phish_invoice.eml,http://m1crosoft-billing.com/secure?session=987
-samples/emails/phish_invoice.eml,http://microsoft-billing.invoices-auth.site/123
+finance_alert_microsoft.eml,http://securemicrosoft.verify-account[
+phish_invoice.eml,http://m1crosoft-billing.com/secure?session=987
+phish_invoice.eml,http://microsoft-billing.invoices-auth.site/123
